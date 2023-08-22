@@ -27,7 +27,7 @@ export default function App(){
           img="/images/airLogo.svg"
         />
         <Hero 
-          img="/images/heroMini.svg"
+          img="/images/heroCompressed.svg"
         /> 
         <section className="card-list">
           {cards}

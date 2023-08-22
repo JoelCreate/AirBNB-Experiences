@@ -5,7 +5,7 @@ export default  [
         description: "Strroll through the lovely streets of Portland Oregon and discover all the local breweries! One drink per stop!",
         price: 45,
         coverImg: "/images/brewery.jpg",
-        alt= "Brewery tour through Portland, Oregon",
+        alt: "Brewery tour through Portland, Oregon",
         stats: {
             rating: 5.0,
             reviewCount: 7
@@ -19,7 +19,7 @@ export default  [
         description: "Experience all the woderfull cat cafes found in Los Angeles, CA. Play with cats and kittens galore!",
         price: 39,
         coverImg: "/images/cafeCat.jpg",
-        alt= "Explore cat cafes in Loas Angeles, California",
+        alt: "Explore cat cafes in Loas Angeles, California",
         stats: {
             rating: 7.1,
             reviewCount: 9
@@ -33,7 +33,7 @@ export default  [
         description: "I will share with you what I call \"Positively Impactful Moments of Disappointment.\" Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.",
         price: 136,
         coverImg: "/images/swimming.jpg",
-        alt= "Swimming lessons with Katie Zafares",
+        alt: "Swimming lessons with Katie Zafares",
         stats: {
             rating: 5.0,
             reviewCount: 6
@@ -47,7 +47,7 @@ export default  [
         description: "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
         price: 125,
         coverImg: "/images/wedding.jpg",
-        alt= "Learn wedding photography online course",
+        alt: "Learn wedding photography online course",
         stats: {
             rating: 5.0,
             reviewCount: 30
@@ -61,7 +61,7 @@ export default  [
         description: "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
         price: 50,
         coverImg: "/images/mountainBike.jpg",
-        alt= "Mountain biking in Norway",
+        alt: "Mountain biking in Norway",
         stats: {
             rating: 4.8,
             reviewCount: 2
